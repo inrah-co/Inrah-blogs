@@ -1,0 +1,102 @@
+baseURL: ''
+title: Inrah
+copyright: ''
+pagination:
+  pagerSize: 10
+theme: PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections:
+  - blogs
+  - papermod
+minify:
+  disableXML: true
+languages:
+  en:
+    languageName: English
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Blogs
+          url: blogs/
+          weight: 1
+        - name: Tags
+          url: tags/
+          weight: 3
+        - identifier: Categories
+          name: categories
+          url: /categories/
+          weight: 4
+        - name: 🔍
+          url: search/
+          weight: 5
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+params:
+  env: production
+  description: Blogs by Qiraah 365
+  author: Qiraah 365
+  TocSide: left
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShareButtons:
+    - linkedin
+    - twitter
+    - whatsapp
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  images:
+    - images/papermod-cover.png
+  profileMode:
+    enabled: false
+    title: Qiraah 365
+    imageUrl: '#'
+    imageTitle: my image
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+  socialIcons:
+    - name: X
+      title: Share PaperMod on X/Twitter
+      url: >-
+        https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod
+    - name: linkedin
+      title: Connect on LinkedIn
+      url: https://www.linkedin.com/in/adityatelange/
+  assets:
+    disableHLJS: true
+    favicon: /assets/favicon.ico
+    favicon16x16: /assets/favicon-16x16.png
+    favicon32x32: /assets/favicon-32x32.png
+    apple_touch_icon: /assets/apple-touch-icon.png
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
