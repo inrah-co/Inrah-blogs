@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Test</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Test</description>
+    <image>
+      <title>Test</title>
+      <url>/images/papermod-cover.png</url>
+      <link>/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginner</title>
+      <link>/tags/beginner/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/beginner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Js</title>
+      <link>/tags/js/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>/tags/programming/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/web/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
