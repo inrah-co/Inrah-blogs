@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Inrah</title>
-    <link>/</link>
-    <description>Recent content on Inrah</description>
+    <title>Markdown on Inrah</title>
+    <link>/tags/markdown/</link>
+    <description>Recent content in Markdown on Inrah</description>
     <image>
       <title>Inrah</title>
       <url>/images/papermod-cover.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog Post</title>
       <link>/blogs/b01/</link>
