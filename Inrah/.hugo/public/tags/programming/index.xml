@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Inrah</title>
-    <link>/blogs/</link>
-    <description>Recent content in Blogs on Inrah</description>
+    <title>Programming on Inrah</title>
+    <link>//localhost:1314/tags/programming/</link>
+    <description>Recent content in Programming on Inrah</description>
     <image>
       <title>Inrah</title>
-      <url>/images/papermod-cover.png</url>
-      <link>/images/papermod-cover.png</link>
+      <url>//localhost:1314/images/papermod-cover.png</url>
+      <link>//localhost:1314/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1314/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World! in JavaScript</title>
-      <link>/blogs/b02/</link>
+      <link>//localhost:1314/blogs/b02/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>/blogs/b02/</guid>
+      <guid>//localhost:1314/blogs/b02/</guid>
       <description>A comprehensive guide to understanding and implementing the classic &amp;#39;Hello, World!&amp;#39; program in JavaScript, covering various execution methods and exploring the language&amp;#39;s fundamentals.</description>
-    </item>
-    <item>
-      <title>My First Blog Post</title>
-      <link>/blogs/b01/</link>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/blogs/b01/</guid>
-      <description>A comprehensive guide to creating your first blog post, covering everything from structure and style to SEO optimization and engaging your readers.</description>
     </item>
   </channel>
 </rss>
