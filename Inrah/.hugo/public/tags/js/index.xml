@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1314/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding SHA256 and Node.js&#39;s Crypto Package</title>
+      <link>//localhost:1314/blogs/b03/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1314/blogs/b03/</guid>
+      <description>A deep dive into the SHA256 hashing algorithm and how to use the crypto package in Node.js for secure data handling.  Learn about its applications, security implications, and practical examples.</description>
+    </item>
     <item>
       <title>Hello, World! in JavaScript</title>
       <link>//localhost:1314/blogs/b02/</link>
