@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inline vs. Block Elements: A Deep Dive</title>
+      <link>/blogs/b04/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>/blogs/b04/</guid>
+      <description>Understanding the difference between inline and block elements in HTML and CSS is crucial for web development. This comprehensive guide explores their properties, behaviors, and practical applications with examples.</description>
+    </item>
     <item>
       <title>Hello, World! in JavaScript</title>
       <link>/blogs/b02/</link>
