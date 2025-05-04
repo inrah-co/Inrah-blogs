@@ -34,5 +34,12 @@
       <guid>/blogs/b02/</guid>
       <description>A comprehensive guide to understanding and implementing the classic &amp;#39;Hello, World!&amp;#39; program in JavaScript, covering various execution methods and exploring the language&amp;#39;s fundamentals.</description>
     </item>
+    <item>
+      <title></title>
+      <link>/blogs/b05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blogs/b05/</guid>
+      <description>&lt;!-- --&gt;</description>
+    </item>
   </channel>
 </rss>
