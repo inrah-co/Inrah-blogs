@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Head on Inrah</title>
-    <link>//localhost:1314/tags/head/</link>
+    <link>/tags/head/</link>
     <description>Recent content in Head on Inrah</description>
     <image>
       <title>Inrah</title>
-      <url>//localhost:1314/images/papermod-cover.png</url>
-      <link>//localhost:1314/images/papermod-cover.png</link>
+      <url>/images/papermod-cover.png</url>
+      <link>/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1314/tags/head/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/head/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Curious Case of the Title Tag Without a Head</title>
-      <link>//localhost:1314/blogs/b05/</link>
+      <link>/blogs/b05/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/blogs/b05/</guid>
+      <guid>/blogs/b05/</guid>
       <description>Why is it okay (but not best practice) to use a title tag without a head tag in HTML?  This blog post explores the nuances of HTML structure and metadata, explaining why the head tag is crucial for SEO and best practices, even if your page might render without it.</description>
     </item>
   </channel>
