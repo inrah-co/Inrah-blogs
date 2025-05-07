@@ -11,64 +11,8 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>/tags/development/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Head</title>
-      <link>/tags/head/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/head/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>/tags/html/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metadata</title>
-      <link>/tags/metadata/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/metadata/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Seo</title>
-      <link>/tags/seo/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/seo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag</title>
-      <link>/tags/tag/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/tag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Title</title>
-      <link>/tags/title/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/title/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>/tags/web/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/web/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Block</title>
       <link>/tags/block/</link>
@@ -91,10 +35,24 @@
       <description></description>
     </item>
     <item>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Elements</title>
       <link>/tags/elements/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>/tags/elements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>/tags/html/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     <item>
@@ -116,6 +74,13 @@
       <link>/tags/js/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>/tags/js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
     <item>
