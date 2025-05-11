@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Js on Inrah</title>
-    <link>//localhost:1314/tags/js/</link>
+    <link>/tags/js/</link>
     <description>Recent content in Js on Inrah</description>
     <image>
       <title>Inrah</title>
-      <url>//localhost:1314/images/papermod-cover.png</url>
-      <link>//localhost:1314/images/papermod-cover.png</link>
+      <url>/images/papermod-cover.png</url>
+      <link>/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1314/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inline vs. Block Elements: A Deep Dive</title>
-      <link>//localhost:1314/blogs/b04/</link>
+      <link>/blogs/b04/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/blogs/b04/</guid>
+      <guid>/blogs/b04/</guid>
       <description>Understanding the difference between inline and block elements in HTML and CSS is crucial for web development. This comprehensive guide explores their properties, behaviors, and practical applications with examples.</description>
     </item>
     <item>
       <title>Understanding SHA256 and Node.js&#39;s Crypto Package</title>
-      <link>//localhost:1314/blogs/b03/</link>
+      <link>/blogs/b03/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/blogs/b03/</guid>
+      <guid>/blogs/b03/</guid>
       <description>A deep dive into the SHA256 hashing algorithm and how to use the crypto package in Node.js for secure data handling.  Learn about its applications, security implications, and practical examples.</description>
     </item>
     <item>
       <title>Hello, World! in JavaScript</title>
-      <link>//localhost:1314/blogs/b02/</link>
+      <link>/blogs/b02/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/blogs/b02/</guid>
+      <guid>/blogs/b02/</guid>
       <description>A comprehensive guide to understanding and implementing the classic &amp;#39;Hello, World!&amp;#39; program in JavaScript, covering various execution methods and exploring the language&amp;#39;s fundamentals.</description>
     </item>
   </channel>
