@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Incrementing Counters: A Deep Dive into `count = count &#43; 1`, `count &#43;= 1`, and `count&#43;&#43;`</title>
-      <link>/blogs/b06/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>/blogs/b06/</guid>
-      <description>Explore the nuances of incrementing counters in programming, comparing `count = count &#43; 1`, `count &#43;= 1`, and `count&#43;&#43;` across different languages.  Discover subtle differences and best practices for efficient and readable code.</description>
-    </item>
     <item>
       <title>Hello, World! in JavaScript</title>
       <link>/blogs/b02/</link>
