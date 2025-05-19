@@ -11,8 +11,71 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debugging</title>
+      <link>/tags/debugging/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/debugging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>/tags/html/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parsing</title>
+      <link>/tags/parsing/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/parsing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rendering</title>
+      <link>/tags/rendering/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/rendering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>/tags/tags/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/tags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unexpected</title>
+      <link>/tags/unexpected/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/unexpected/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website</title>
+      <link>/tags/website/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Block</title>
       <link>/tags/block/</link>
@@ -35,24 +98,10 @@
       <description></description>
     </item>
     <item>
-      <title>Development</title>
-      <link>/tags/development/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/development/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Elements</title>
       <link>/tags/elements/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>/tags/elements/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>/tags/html/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/html/</guid>
       <description></description>
     </item>
     <item>
@@ -74,13 +123,6 @@
       <link>/tags/js/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>/tags/js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>/tags/web/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/web/</guid>
       <description></description>
     </item>
     <item>
