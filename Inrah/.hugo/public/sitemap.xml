@@ -2,28 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/beginner/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/blogs/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/coding/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/css/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/debugging/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/development/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/html/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/block/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+    <loc>/blogs/b07/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>/tags/parsing/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rendering/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tags/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/unexpected/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/web/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/website/</loc>
+    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/block/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/design/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/development/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/elements/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/html/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/inline/</loc>
@@ -36,12 +69,6 @@
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/js/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/web/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/crypto/</loc>
@@ -67,9 +94,6 @@
   </url><url>
     <loc>/blogs/b03/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/beginner/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blogs/b02/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
