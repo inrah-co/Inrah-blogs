@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><meta charset="utf-8">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1314&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -9,16 +9,16 @@
 <meta name="keywords" content="flutter, dart, mobile, development, cross-platform, beginner, programming, ui, widgets">
 <meta name="description" content="A comprehensive guide to Flutter for beginners, covering the basics, widgets, state management, and more. Learn to build your first Flutter app with ease!">
 <meta name="author" content="Inrah">
-<link rel="canonical" href="/blogs/b10/">
+<link rel="canonical" href="//localhost:1314/blogs/b10/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.45e028aa8ce0961349adf411b013ee39406be2c0bc80d4ea3fc04555f7f4611a.css" integrity="sha256-ReAoqozglhNJrfQRsBPuOUBr4sC8gNTqP8BFVff0YRo=" rel="preload stylesheet" as="style">
-<link rel="icon" href="/assets/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
-<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-<link rel="mask-icon" href="/safari-pinned-tab.svg">
+<link rel="icon" href="//localhost:1314/assets/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="//localhost:1314/assets/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//localhost:1314/assets/favicon-32x32.png">
+<link rel="apple-touch-icon" href="//localhost:1314/assets/apple-touch-icon.png">
+<link rel="mask-icon" href="//localhost:1314/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="/blogs/b10/">
+<link rel="alternate" hreflang="en" href="//localhost:1314/blogs/b10/">
 <noscript>
     <style>
         #theme-toggle,
@@ -60,7 +60,7 @@
   src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5590904741877722"
   crossorigin="anonymous"
 ></script>
-<meta property="og:url" content="/blogs/b10/">
+<meta property="og:url" content="//localhost:1314/blogs/b10/">
   <meta property="og:site_name" content="Inrah">
   <meta property="og:title" content="Flutter for Beginners: A Gentle Introduction">
   <meta property="og:description" content="A comprehensive guide to Flutter for beginners, covering the basics, widgets, state management, and more. Learn to build your first Flutter app with ease!">
@@ -75,9 +75,9 @@
     <meta property="article:tag" content="Development">
     <meta property="article:tag" content="Cross-Platform">
     <meta property="article:tag" content="Beginner">
-      <meta property="og:image" content="/images/papermod-cover.png">
+      <meta property="og:image" content="//localhost:1314/images/papermod-cover.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="/images/papermod-cover.png">
+<meta name="twitter:image" content="//localhost:1314/images/papermod-cover.png">
 <meta name="twitter:title" content="Flutter for Beginners: A Gentle Introduction">
 <meta name="twitter:description" content="A comprehensive guide to Flutter for beginners, covering the basics, widgets, state management, and more. Learn to build your first Flutter app with ease!">
 
@@ -91,13 +91,13 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Blogs",
-      "item": "/blogs/"
-    }
+      "item": "//localhost:1314/blogs/"
+    }, 
     {
       "@type": "ListItem",
-      "position":  1 ,
+      "position":  2 ,
       "name": "Flutter for Beginners: A Gentle Introduction",
-      "item": "/blogs/b10/"
+      "item": "//localhost:1314/blogs/b10/"
     }
   ]
 }
@@ -115,7 +115,7 @@
   "articleBody": "Flutter for Beginners: A Gentle Introduction So, you’re thinking about learning Flutter? Fantastic choice! Flutter, Google’s UI toolkit, is a powerful and increasingly popular way to build beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Think of it as a superpower for developers – the ability to create apps for multiple platforms without having to learn multiple languages or frameworks. Sounds pretty amazing, right?\nThis guide is designed to be your friendly companion on your Flutter journey. We’ll start with the absolute basics and gradually build up your knowledge, making sure to keep things clear, concise, and (dare I say it?) fun!\nWhat is Flutter? Flutter isn’t just another mobile development framework; it’s a complete SDK (Software Development Kit). This means it provides everything you need to build a fully functional app, including:\nDart: Flutter uses the Dart programming language. Don’t worry if you’ve never heard of it before – it’s a relatively easy language to learn, especially if you have experience with other object-oriented languages like Java or C#. Widgets: Flutter’s UI is built entirely using widgets. Think of widgets as Lego bricks for your app’s interface. You combine different widgets to create complex and visually appealing layouts. Rendering Engine: Flutter uses its own rendering engine, called Skia, which means it doesn’t rely on the platform’s native rendering capabilities. This results in consistent performance and appearance across different devices and operating systems. Hot Reload: This is a game-changer! Hot reload allows you to see the changes you make to your code instantly reflected in your app without restarting it. This significantly speeds up the development process and makes experimentation much more enjoyable. Setting Up Your Development Environment Before we dive into coding, you’ll need to set up your development environment. This involves installing a few things:\nFlutter SDK: Download the Flutter SDK from the official Flutter website. The website provides clear instructions for your operating system (Windows, macOS, or Linux). IDE: You’ll need an Integrated Development Environment (IDE) to write and run your Flutter code. Popular choices include: VS Code: A lightweight and highly customizable editor with excellent Flutter support. Android Studio: A more full-featured IDE, particularly useful if you’re also developing Android apps. Android Studio (Optional but Recommended): If you plan on testing your app on an Android device, you’ll need Android Studio to set up the Android SDK and emulator. Once you’ve installed these, follow the Flutter installation instructions carefully. The official documentation is your best friend here!\nYour First Flutter App: “Hello, World!” Let’s create a simple “Hello, World!” app to get a feel for Flutter. This will involve creating a new project and modifying a few lines of code.\nCreate a new project: Use the command flutter create my_first_app in your terminal. This will generate a new Flutter project in a folder named my_first_app. Open the project: Open the my_first_app folder in your chosen IDE. Locate main.dart: This file contains the main function of your app. Modify the code: Replace the contents of main.dart with the following: import 'package:flutter/material.dart'; void main() { runApp(MyApp()); } class MyApp extends StatelessWidget { @override Widget build(BuildContext context) { return MaterialApp( home: Scaffold( appBar: AppBar( title: Text('My First App'), ), body: Center( child: Text('Hello, World!'), ), ), ); } } Run the app: Use the command flutter run in your terminal to run the app on an emulator or connected device. You should now see a simple app with an app bar and the text “Hello, World!” displayed in the center. Congratulations, you’ve built your first Flutter app!\nUnderstanding the Code Let’s break down the code snippet above:\nimport 'package:flutter/material.dart';: This line imports the material package, which provides a set of pre-built widgets for creating Material Design apps (the design language used by Android and Google). void main() { runApp(MyApp()); }: This is the main function. It runs the MyApp widget, which is the root of our app’s widget tree. class MyApp extends StatelessWidget: This defines a stateless widget called MyApp. Stateless widgets are widgets that don’t change over time. @override Widget build(BuildContext context): This method builds the UI of the widget. MaterialApp: This widget provides the basic structure of a Material Design app. Scaffold: This widget provides a basic layout structure for a screen, including an app bar and a body. AppBar: This widget creates the app bar at the top of the screen. Text: This widget displays text. Center: This widget centers its child widget. Diving Deeper into Widgets Widgets are the fundamental building blocks of Flutter UI. They are essentially reusable UI elements that you can combine to create complex layouts. There are two main types of widgets:\nStateless Widgets: These widgets don’t change their state over time. They are ideal for static UI elements like text, images, and icons. Stateful Widgets: These widgets can change their state over time. They are used for dynamic UI elements that need to update based on user interaction or other events. Flutter provides a vast library of pre-built widgets, covering everything from basic UI elements to more complex components. You can also create your own custom widgets to extend Flutter’s capabilities.\nCommon Widgets: Text: Displays text. Image: Displays images. Icon: Displays icons. Container: A general-purpose widget for creating boxes with padding, margins, and background colors. Row and Column: Arrange widgets horizontally and vertically, respectively. Stack: Overlays widgets on top of each other. ListView: Displays a scrollable list of widgets. Button: Creates interactive buttons. State Management in Flutter As your Flutter apps become more complex, you’ll need to manage the state of your widgets effectively. State management refers to how you handle data changes and updates in your app. Flutter offers several approaches to state management, including:\nsetState(): The simplest approach for managing state in small, simple apps. It’s suitable for widgets that only need to manage their own local state. Provider: A popular and relatively simple state management solution for medium-sized apps. BLoC (Business Logic Component): A more structured approach to state management, suitable for larger and more complex apps. Riverpod: A newer state management solution that builds upon Provider and offers improved performance and features. GetX: A lightweight and easy-to-use state management solution. Choosing the right state management solution depends on the complexity of your app. For beginners, setState() is a good starting point, while Provider or Riverpod are excellent choices for more complex projects.\nNavigation in Flutter Navigating between different screens in your app is crucial for creating a user-friendly experience. Flutter provides the Navigator widget for managing navigation. You can use the Navigator.push() method to push a new route onto the navigation stack and Navigator.pop() to remove a route from the stack.\nAsynchronous Programming in Dart Flutter often involves interacting with external resources, such as APIs or databases. This often requires asynchronous programming, which allows you to perform operations without blocking the main thread. Dart provides several ways to handle asynchronous operations, including:\nasync and await: These keywords make asynchronous code look and behave more like synchronous code, making it easier to read and understand. Future: Represents the result of an asynchronous operation. Stream: Represents a sequence of asynchronous events. Testing Your Flutter App Testing is an essential part of the software development process. Flutter provides a robust testing framework that allows you to write unit tests, widget tests, and integration tests. This ensures that your app is functioning correctly and prevents bugs from slipping into production.\nConclusion: Embark on Your Flutter Adventure! This introduction has only scratched the surface of what Flutter can do. The journey of learning Flutter is an ongoing process of exploration and discovery. Don’t be afraid to experiment, try new things, and consult the official Flutter documentation. The community is incredibly supportive, and there are countless resources available online to help you on your way.\nSo, what are you waiting for? Download the Flutter SDK, create your first app, and start building amazing mobile experiences! What’s the first app you want to build? Let me know in the comments!\n",
   "wordCount" : "1332",
   "inLanguage": "en",
-  "image": "/images/papermod-cover.png","datePublished": "2025-06-30T00:00:00Z",
+  "image": "//localhost:1314/images/papermod-cover.png","datePublished": "2025-06-30T00:00:00Z",
   "dateModified": "2025-06-30T00:00:00Z",
   "author":[{
     "@type": "Person",
@@ -123,14 +123,14 @@
   }],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/blogs/b10/"
+    "@id": "//localhost:1314/blogs/b10/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Inrah",
     "logo": {
       "@type": "ImageObject",
-      "url": "/assets/favicon.ico"
+      "url": "//localhost:1314/assets/favicon.ico"
     }
   }
 }
@@ -152,7 +152,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="/" accesskey="h" title="Inrah (Alt + H)">Inrah</a>
+            <a href="//localhost:1314/" accesskey="h" title="Inrah (Alt + H)">Inrah</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -178,22 +178,22 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="/blogs/" title="Blogs">
+                <a href="//localhost:1314/blogs/" title="Blogs">
                     <span>Blogs</span>
                 </a>
             </li>
             <li>
-                <a href="/tags/" title="Tags">
+                <a href="//localhost:1314/tags/" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>
             <li>
-                <a href="/categories/" title="categories">
+                <a href="//localhost:1314/categories/" title="categories">
                     <span>categories</span>
                 </a>
             </li>
             <li>
-                <a href="/search/" title="🔍">
+                <a href="//localhost:1314/search/" title="🔍">
                     <span>🔍</span>
                 </a>
             </li>
@@ -204,7 +204,7 @@
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="/">Home</a>&nbsp;»&nbsp;<a href="/blogs/">Blogs</a></div>
+    <div class="breadcrumbs"><a href="//localhost:1314/">Home</a>&nbsp;»&nbsp;<a href="//localhost:1314/blogs/">Blogs</a></div>
     <h1 class="post-title entry-hint-parent">
       Flutter for Beginners: A Gentle Introduction
     </h1>
@@ -384,18 +384,18 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="/tags/flutter/">Flutter</a></li>
-      <li><a href="/tags/dart/">Dart</a></li>
-      <li><a href="/tags/mobile/">Mobile</a></li>
-      <li><a href="/tags/development/">Development</a></li>
-      <li><a href="/tags/cross-platform/">Cross-Platform</a></li>
-      <li><a href="/tags/beginner/">Beginner</a></li>
-      <li><a href="/tags/programming/">Programming</a></li>
-      <li><a href="/tags/ui/">Ui</a></li>
-      <li><a href="/tags/widgets/">Widgets</a></li>
+      <li><a href="//localhost:1314/tags/flutter/">Flutter</a></li>
+      <li><a href="//localhost:1314/tags/dart/">Dart</a></li>
+      <li><a href="//localhost:1314/tags/mobile/">Mobile</a></li>
+      <li><a href="//localhost:1314/tags/development/">Development</a></li>
+      <li><a href="//localhost:1314/tags/cross-platform/">Cross-Platform</a></li>
+      <li><a href="//localhost:1314/tags/beginner/">Beginner</a></li>
+      <li><a href="//localhost:1314/tags/programming/">Programming</a></li>
+      <li><a href="//localhost:1314/tags/ui/">Ui</a></li>
+      <li><a href="//localhost:1314/tags/widgets/">Widgets</a></li>
     </ul>
 <nav class="paginav">
-  <a class="next" href="/blogs/b08/">
+  <a class="next" href="//localhost:1314/blogs/b08/">
     <span class="title">Next »</span>
     <br>
     <span>Mastering JavaScript Strings: A Comprehensive Guide</span>
@@ -406,7 +406,7 @@
 <ul class="share-buttons">
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Flutter for Beginners: A Gentle Introduction on x"
-            href="https://x.com/intent/tweet/?text=Flutter%20for%20Beginners%3a%20A%20Gentle%20Introduction&amp;url=%2fblogs%2fb10%2f&amp;hashtags=flutter%2cdart%2cmobile%2cdevelopment%2ccross-platform%2cbeginner%2cprogramming%2cui%2cwidgets">
+            href="https://x.com/intent/tweet/?text=Flutter%20for%20Beginners%3a%20A%20Gentle%20Introduction&amp;url=%2f%2flocalhost%3a1314%2fblogs%2fb10%2f&amp;hashtags=flutter%2cdart%2cmobile%2cdevelopment%2ccross-platform%2cbeginner%2cprogramming%2cui%2cwidgets">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M512 62.554 L 512 449.446 C 512 483.97 483.97 512 449.446 512 L 62.554 512 C 28.03 512 0 483.97 0 449.446 L 0 62.554 C 0 28.03 28.029 0 62.554 0 L 449.446 0 C 483.971 0 512 28.03 512 62.554 Z M 269.951 190.75 L 182.567 75.216 L 56 75.216 L 207.216 272.95 L 63.9 436.783 L 125.266 436.783 L 235.9 310.383 L 332.567 436.783 L 456 436.783 L 298.367 228.367 L 432.367 75.216 L 371.033 75.216 Z M 127.633 110 L 164.101 110 L 383.481 400.065 L 349.5 400.065 Z" />
@@ -415,7 +415,7 @@
     </li>
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Flutter for Beginners: A Gentle Introduction on linkedin"
-            href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fblogs%2fb10%2f&amp;title=Flutter%20for%20Beginners%3a%20A%20Gentle%20Introduction&amp;summary=Flutter%20for%20Beginners%3a%20A%20Gentle%20Introduction&amp;source=%2fblogs%2fb10%2f">
+            href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2f%2flocalhost%3a1314%2fblogs%2fb10%2f&amp;title=Flutter%20for%20Beginners%3a%20A%20Gentle%20Introduction&amp;summary=Flutter%20for%20Beginners%3a%20A%20Gentle%20Introduction&amp;source=%2f%2flocalhost%3a1314%2fblogs%2fb10%2f">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-288.985,423.278l0,-225.717l-75.04,0l0,225.717l75.04,0Zm270.539,0l0,-129.439c0,-69.333 -37.018,-101.586 -86.381,-101.586c-39.804,0 -57.634,21.891 -67.617,37.266l0,-31.958l-75.021,0c0.995,21.181 0,225.717 0,225.717l75.02,0l0,-126.056c0,-6.748 0.486,-13.492 2.474,-18.315c5.414,-13.475 17.767,-27.434 38.494,-27.434c27.135,0 38.007,20.707 38.007,51.037l0,120.768l75.024,0Zm-307.552,-334.556c-25.674,0 -42.448,16.879 -42.448,39.002c0,21.658 16.264,39.002 41.455,39.002l0.484,0c26.165,0 42.452,-17.344 42.452,-39.002c-0.485,-22.092 -16.241,-38.954 -41.943,-39.002Z" />
@@ -424,7 +424,7 @@
     </li>
     <li>
         <a target="_blank" rel="noopener noreferrer" aria-label="share Flutter for Beginners: A Gentle Introduction on whatsapp"
-            href="https://api.whatsapp.com/send?text=Flutter%20for%20Beginners%3a%20A%20Gentle%20Introduction%20-%20%2fblogs%2fb10%2f">
+            href="https://api.whatsapp.com/send?text=Flutter%20for%20Beginners%3a%20A%20Gentle%20Introduction%20-%20%2f%2flocalhost%3a1314%2fblogs%2fb10%2f">
             <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="30px" width="30px" fill="currentColor">
                 <path
                     d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-386.892,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Zm-58.673,127.703c-33.842,-33.881 -78.847,-52.548 -126.798,-52.568c-98.799,0 -179.21,80.405 -179.249,179.234c-0.013,31.593 8.241,62.428 23.927,89.612l-25.429,92.884l95.021,-24.925c26.181,14.28 55.659,21.807 85.658,21.816l0.074,0c98.789,0 179.206,-80.413 179.247,-179.243c0.018,-47.895 -18.61,-92.93 -52.451,-126.81Zm-126.797,275.782l-0.06,0c-26.734,-0.01 -52.954,-7.193 -75.828,-20.767l-5.441,-3.229l-56.386,14.792l15.05,-54.977l-3.542,-5.637c-14.913,-23.72 -22.791,-51.136 -22.779,-79.287c0.033,-82.142 66.867,-148.971 149.046,-148.971c39.793,0.014 77.199,15.531 105.329,43.692c28.128,28.16 43.609,65.592 43.594,105.4c-0.034,82.149 -66.866,148.983 -148.983,148.984Zm81.721,-111.581c-4.479,-2.242 -26.499,-13.075 -30.604,-14.571c-4.105,-1.495 -7.091,-2.241 -10.077,2.241c-2.986,4.483 -11.569,14.572 -14.182,17.562c-2.612,2.988 -5.225,3.364 -9.703,1.12c-4.479,-2.241 -18.91,-6.97 -36.017,-22.23c-13.314,-11.876 -22.304,-26.542 -24.916,-31.026c-2.612,-4.484 -0.279,-6.908 1.963,-9.14c2.016,-2.007 4.48,-5.232 6.719,-7.847c2.24,-2.615 2.986,-4.484 4.479,-7.472c1.493,-2.99 0.747,-5.604 -0.374,-7.846c-1.119,-2.241 -10.077,-24.288 -13.809,-33.256c-3.635,-8.733 -7.327,-7.55 -10.077,-7.688c-2.609,-0.13 -5.598,-0.158 -8.583,-0.158c-2.986,0 -7.839,1.121 -11.944,5.604c-4.105,4.484 -15.675,15.32 -15.675,37.364c0,22.046 16.048,43.342 18.287,46.332c2.24,2.99 31.582,48.227 76.511,67.627c10.685,4.615 19.028,7.371 25.533,9.434c10.728,3.41 20.492,2.929 28.209,1.775c8.605,-1.285 26.499,-10.833 30.231,-21.295c3.732,-10.464 3.732,-19.431 2.612,-21.298c-1.119,-1.869 -4.105,-2.99 -8.583,-5.232Z" />
@@ -438,7 +438,7 @@
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="/">Inrah</a></span> · 
+        <span>&copy; 2025 <a href="//localhost:1314/">Inrah</a></span> · 
 
     <span>
         Powered by
