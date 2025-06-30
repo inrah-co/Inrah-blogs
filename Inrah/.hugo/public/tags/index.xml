@@ -2,204 +2,225 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Inrah</title>
-    <link>//localhost:1314/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Inrah</description>
     <image>
       <title>Inrah</title>
-      <url>//localhost:1314/images/papermod-cover.png</url>
-      <link>//localhost:1314/images/papermod-cover.png</link>
+      <url>/images/papermod-cover.png</url>
+      <link>/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Beginner</title>
-      <link>//localhost:1314/tags/beginner/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/beginner/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coding</title>
-      <link>//localhost:1314/tags/coding/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/coding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
-      <link>//localhost:1314/tags/css/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Debugging</title>
-      <link>//localhost:1314/tags/debugging/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/debugging/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>//localhost:1314/tags/development/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>//localhost:1314/tags/html/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parsing</title>
-      <link>//localhost:1314/tags/parsing/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/parsing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rendering</title>
-      <link>//localhost:1314/tags/rendering/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/rendering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tags</title>
-      <link>//localhost:1314/tags/tags/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/tags/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Unexpected</title>
-      <link>//localhost:1314/tags/unexpected/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/unexpected/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>//localhost:1314/tags/web/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/web/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Website</title>
-      <link>//localhost:1314/tags/website/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/website/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Block</title>
-      <link>//localhost:1314/tags/block/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/block/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Design</title>
-      <link>//localhost:1314/tags/design/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>//localhost:1314/tags/elements/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/elements/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Inline</title>
-      <link>//localhost:1314/tags/inline/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/inline/</guid>
+      <link>/tags/development/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>//localhost:1314/tags/javascript/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/javascript/</guid>
+      <link>/tags/javascript/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Js</title>
-      <link>//localhost:1314/tags/js/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/js/</guid>
+      <link>/tags/js/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/js/</guid>
       <description></description>
     </item>
     <item>
-      <title>Crypto</title>
-      <link>//localhost:1314/tags/crypto/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/crypto/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cryptography</title>
-      <link>//localhost:1314/tags/cryptography/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/cryptography/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hashing</title>
-      <link>//localhost:1314/tags/hashing/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/hashing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NodeJS</title>
-      <link>//localhost:1314/tags/nodejs/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/nodejs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Package</title>
-      <link>//localhost:1314/tags/package/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/package/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>//localhost:1314/tags/security/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SHA256</title>
-      <link>//localhost:1314/tags/sha256/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/sha256/</guid>
+      <title>Manipulation</title>
+      <link>/tags/manipulation/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/manipulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>//localhost:1314/tags/programming/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/programming/</guid>
+      <link>/tags/programming/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>String</title>
+      <link>/tags/string/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/string/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strings</title>
+      <link>/tags/strings/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/strings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beginner</title>
+      <link>/tags/beginner/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/beginner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>/tags/coding/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>/tags/css/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debugging</title>
+      <link>/tags/debugging/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/debugging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>/tags/html/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parsing</title>
+      <link>/tags/parsing/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/parsing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rendering</title>
+      <link>/tags/rendering/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/rendering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>/tags/tags/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/tags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unexpected</title>
+      <link>/tags/unexpected/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/unexpected/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website</title>
+      <link>/tags/website/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Block</title>
+      <link>/tags/block/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/block/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>/tags/design/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>/tags/elements/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/elements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inline</title>
+      <link>/tags/inline/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/inline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crypto</title>
+      <link>/tags/crypto/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/crypto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptography</title>
+      <link>/tags/cryptography/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hashing</title>
+      <link>/tags/hashing/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/hashing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NodeJS</title>
+      <link>/tags/nodejs/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Package</title>
+      <link>/tags/package/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>/tags/security/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SHA256</title>
+      <link>/tags/sha256/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/sha256/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>//localhost:1314/tags/tutorial/</link>
+      <link>/tags/tutorial/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/tags/tutorial/</guid>
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
   </channel>
