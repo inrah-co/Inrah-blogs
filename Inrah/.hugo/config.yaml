@@ -1,6 +1,6 @@
-baseURL: ''
+baseURL: ""
 title: Inrah
-copyright: ''
+copyright: ""
 pagination:
   pagerSize: 10
 theme: PaperMod
@@ -68,7 +68,7 @@ params:
   profileMode:
     enabled: false
     title: Qiraah 365
-    imageUrl: '#'
+    imageUrl: "#"
     imageTitle: my image
     buttons:
       - name: Archives
