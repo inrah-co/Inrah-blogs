@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter for Beginners: A Gentle Introduction</title>
+      <link>/blogs/b10/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/blogs/b10/</guid>
+      <description>A comprehensive guide to Flutter for beginners, covering the basics, widgets, state management, and more. Learn to build your first Flutter app with ease!</description>
+    </item>
     <item>
       <title>Mysterious HTML Tags: Why is My Simple Text Adding HTML Structure?</title>
       <link>/blogs/b07/</link>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cross-Platform on Inrah</title>
+    <link>/tags/cross-platform/</link>
+    <description>Recent content in Cross-Platform on Inrah</description>
+    <image>
+      <title>Inrah</title>
+      <url>/images/papermod-cover.png</url>
+      <link>/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/cross-platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter for Beginners: A Gentle Introduction</title>
+      <link>/blogs/b10/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/blogs/b10/</guid>
+      <description>A comprehensive guide to Flutter for beginners, covering the basics, widgets, state management, and more. Learn to build your first Flutter app with ease!</description>
+    </item>
+  </channel>
+</rss>

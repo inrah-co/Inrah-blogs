@@ -14,6 +14,13 @@
     <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Beginner</title>
+      <link>/tags/beginner/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/beginner/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Coding</title>
       <link>/tags/coding/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
@@ -21,10 +28,31 @@
       <description></description>
     </item>
     <item>
+      <title>Cross-Platform</title>
+      <link>/tags/cross-platform/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/cross-platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dart</title>
+      <link>/tags/dart/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/dart/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Development</title>
       <link>/tags/development/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
       <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter</title>
+      <link>/tags/flutter/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/flutter/</guid>
       <description></description>
     </item>
     <item>
@@ -49,6 +77,13 @@
       <description></description>
     </item>
     <item>
+      <title>Mobile</title>
+      <link>/tags/mobile/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/mobile/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Programming</title>
       <link>/tags/programming/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
@@ -70,6 +105,13 @@
       <description></description>
     </item>
     <item>
+      <title>Ui</title>
+      <link>/tags/ui/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/ui/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Variables</title>
       <link>/tags/variables/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
@@ -84,10 +126,10 @@
       <description></description>
     </item>
     <item>
-      <title>Beginner</title>
-      <link>/tags/beginner/</link>
-      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/beginner/</guid>
+      <title>Widgets</title>
+      <link>/tags/widgets/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/widgets/</guid>
       <description></description>
     </item>
     <item>

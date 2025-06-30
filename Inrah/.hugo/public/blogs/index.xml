@@ -14,6 +14,13 @@
     <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Flutter for Beginners: A Gentle Introduction</title>
+      <link>/blogs/b10/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/blogs/b10/</guid>
+      <description>A comprehensive guide to Flutter for beginners, covering the basics, widgets, state management, and more. Learn to build your first Flutter app with ease!</description>
+    </item>
+    <item>
       <title>Mastering JavaScript Strings: A Comprehensive Guide</title>
       <link>/blogs/b08/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
