@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Manipulation on Inrah</title>
-    <link>/tags/manipulation/</link>
+    <link>//localhost:1314/tags/manipulation/</link>
     <description>Recent content in Manipulation on Inrah</description>
     <image>
       <title>Inrah</title>
-      <url>/images/papermod-cover.png</url>
-      <link>/images/papermod-cover.png</link>
+      <url>//localhost:1314/images/papermod-cover.png</url>
+      <link>//localhost:1314/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1314/tags/manipulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mastering JavaScript Strings: A Comprehensive Guide</title>
-      <link>/blogs/b08/</link>
+      <link>//localhost:1314/blogs/b08/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/blogs/b08/</guid>
+      <guid>//localhost:1314/blogs/b08/</guid>
       <description>Dive deep into the world of JavaScript strings with this comprehensive guide. Learn about string manipulation, methods, and best practices for efficient string handling in your JavaScript projects.</description>
     </item>
   </channel>

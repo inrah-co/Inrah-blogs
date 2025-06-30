@@ -2,124 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blogs/</loc>
+    <loc>//localhost:1314/blogs/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/development/</loc>
+    <loc>//localhost:1314/tags/development/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1314/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/javascript/</loc>
+    <loc>//localhost:1314/tags/javascript/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/js/</loc>
+    <loc>//localhost:1314/tags/js/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/manipulation/</loc>
+    <loc>//localhost:1314/tags/manipulation/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blogs/b08/</loc>
+    <loc>//localhost:1314/blogs/b08/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/programming/</loc>
+    <loc>//localhost:1314/tags/programming/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/string/</loc>
+    <loc>//localhost:1314/tags/string/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/strings/</loc>
+    <loc>//localhost:1314/tags/strings/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1314/tags/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/web/</loc>
+    <loc>//localhost:1314/tags/web/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/beginner/</loc>
+    <loc>//localhost:1314/tags/beginner/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/coding/</loc>
+    <loc>//localhost:1314/tags/coding/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>//localhost:1314/tags/css/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/debugging/</loc>
+    <loc>//localhost:1314/tags/debugging/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>//localhost:1314/tags/html/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blogs/b07/</loc>
+    <loc>//localhost:1314/blogs/b07/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/parsing/</loc>
+    <loc>//localhost:1314/tags/parsing/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/rendering/</loc>
+    <loc>//localhost:1314/tags/rendering/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tags/</loc>
+    <loc>//localhost:1314/tags/tags/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/unexpected/</loc>
+    <loc>//localhost:1314/tags/unexpected/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/website/</loc>
+    <loc>//localhost:1314/tags/website/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/block/</loc>
+    <loc>//localhost:1314/tags/block/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/design/</loc>
+    <loc>//localhost:1314/tags/design/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/elements/</loc>
+    <loc>//localhost:1314/tags/elements/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/inline/</loc>
+    <loc>//localhost:1314/tags/inline/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blogs/b04/</loc>
+    <loc>//localhost:1314/blogs/b04/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/crypto/</loc>
+    <loc>//localhost:1314/tags/crypto/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cryptography/</loc>
+    <loc>//localhost:1314/tags/cryptography/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hashing/</loc>
+    <loc>//localhost:1314/tags/hashing/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nodejs/</loc>
+    <loc>//localhost:1314/tags/nodejs/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/package/</loc>
+    <loc>//localhost:1314/tags/package/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/security/</loc>
+    <loc>//localhost:1314/tags/security/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sha256/</loc>
+    <loc>//localhost:1314/tags/sha256/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blogs/b03/</loc>
+    <loc>//localhost:1314/blogs/b03/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blogs/b02/</loc>
+    <loc>//localhost:1314/blogs/b02/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tutorial/</loc>
+    <loc>//localhost:1314/tags/tutorial/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1314/categories/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>//localhost:1314/search/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>//localhost:1314/series/</loc>
   </url>
 </urlset>
