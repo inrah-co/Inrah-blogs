@@ -2,22 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Coding on Inrah</title>
-    <link>//localhost:1314/tags/coding/</link>
+    <link>/tags/coding/</link>
     <description>Recent content in Coding on Inrah</description>
     <image>
       <title>Inrah</title>
-      <url>//localhost:1314/images/papermod-cover.png</url>
-      <link>//localhost:1314/images/papermod-cover.png</link>
+      <url>/images/papermod-cover.png</url>
+      <link>/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1314/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding JavaScript Variables</title>
+      <link>/blogs/b09/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/blogs/b09/</guid>
+      <description>A comprehensive guide to JavaScript variables, covering declaration, scope, hoisting, and best practices. Learn how to effectively use variables in your JavaScript programs.</description>
+    </item>
     <item>
       <title>Mysterious HTML Tags: Why is My Simple Text Adding HTML Structure?</title>
-      <link>//localhost:1314/blogs/b07/</link>
+      <link>/blogs/b07/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1314/blogs/b07/</guid>
+      <guid>/blogs/b07/</guid>
       <description>Ever wondered why your plain text file renders with unexpected HTML tags? This blog post dives deep into the reasons behind this phenomenon, exploring browser behaviour, server-side rendering, and potential solutions.</description>
     </item>
   </channel>
